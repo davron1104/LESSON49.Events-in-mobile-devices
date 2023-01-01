@@ -87,3 +87,9 @@ body {
     font-size: 45px;
     text-align: center;
 }
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+}
